@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed on your system:
 
 *   **Java Development Kit (JDK)**: Version 8 or higher is recommended.
     *   [Download JDK](https://www.oracle.com/java/technologies/downloads/)
-*   **`org.json.jar`**: A library for working with JSON data in Java. This dependency is already included in the `bin/` directory.
+*   **`org.json.jar`**: A library for working with JSON data in Java. This dependency should be in the same directory as the `/bin` folder.
 
 ## 📦 Installation & Setup Instructions
 
